@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  description: MyText
+  cost: 9.99
+  startdate: 2013-11-30 19:02:08
+  enddate: 2013-11-30 19:02:08
+
+two:
+  description: MyText
+  cost: 9.99
+  startdate: 2013-11-30 19:02:08
+  enddate: 2013-11-30 19:02:08
